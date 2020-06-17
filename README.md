@@ -1,4 +1,5 @@
-# java-dockerized
+# java-application with maven build tool and it's contain dockerfile alos
+
 This project is a demonstration of how to dockerize a Java project. 
 
 ## The Java part
